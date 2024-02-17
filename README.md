@@ -5,3 +5,4 @@
 | # | Topic | Content |
 | ------ | ------ | ------ |
 | 1 | Pointers & Structures | Pointers, dereference, structures, arrow operator |
+| 1 | DMA | Dynamic Memory Allocation |
