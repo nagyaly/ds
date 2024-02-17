@@ -5,4 +5,5 @@
 | # | Topic | Content |
 | ------ | ------ | ------ |
 | 1 | Pointers & Structures | Pointers, dereference, structures, arrow operator |
-| 1 | DMA | Dynamic Memory Allocation |
+| 2 | DMA | Dynamic Memory Allocation |
+| 3 | LL | Linked List |
