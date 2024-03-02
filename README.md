@@ -8,4 +8,4 @@
 | ------ | ------ | ------ |
 | 1 | Pointers & Structures | Pointers, dereference, structures, arrow operator |
 | 2 | DMA | Dynamic Memory Allocation |
-| 3 | LL | Linked List |
+| 3 | Linked List | Structure, allocation, insertFront, display, insertEnd, calculations |

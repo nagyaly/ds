@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 /*
     linked lists can be used to create arrays that are not adjacent in memory,
     in other words, traditional array (int arr[100]) requires a complete
