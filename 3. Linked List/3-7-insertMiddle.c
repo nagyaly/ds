@@ -67,7 +67,7 @@ void insertBetween(int data, int a, int b){
         printf("%d Not found\n", a);
         return;
     }
-    if(temp->next->data != b){      //if second node (b) not found
+    if(!temp->next || temp->next->data != b){      //if second node (b) not found
         printf("%d Not found\n", b);
         return;
     }
